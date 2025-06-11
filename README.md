@@ -9,7 +9,7 @@
 
 - 🎓 Informatics student at Universitas Teknologi Digital Indonesia  
 - 💡 Interested in Web Development, , especially in Backend Development  
-- 🌱 Currently learning: `Express.js`, `Node.js`, `MongoDB`, `Tailwind CSS`  
+- 🌱 Currently learning: `Express.js`, `Node.js`, `MongoDB`, `MySQL`, `Tailwind CSS`  
 - 🧑‍🏫 Assistant in Advanced Programming Algorithms Lab
 
 ---
