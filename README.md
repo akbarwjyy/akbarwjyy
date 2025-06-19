@@ -3,7 +3,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=akbarwjyy&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/akbarwjyy?label=Follow&style=social)](https://github.com/akbarwjyy)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding-gif"/>
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding-gif"/>
+</p>
 
 ---
 
