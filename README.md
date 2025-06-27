@@ -38,7 +38,7 @@
 
 ![Akbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbarwjyy&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=akbarwjyy&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akbarwjyy&theme=tokyonight&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarwjyy&layout=compact&theme=tokyonight)
 
