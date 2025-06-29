@@ -36,11 +36,17 @@
 
 ## 📊 GitHub Stats
 
-![Akbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbarwjyy&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akbarwjyy&show_icons=true&theme=tokyonight" alt="Akbar's GitHub Stats" />
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akbarwjyy&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akbarwjyy&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarwjyy&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarwjyy&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
