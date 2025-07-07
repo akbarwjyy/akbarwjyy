@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Akbar Wijaya 
+# <marquee><h1>👋 Hi there, I'm Akbar Wijaya</h1></marquee>
 
 ![Profile views](https://komarev.com/ghpvc/?username=akbarwjyy&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/akbarwjyy?label=Follow&style=social)](https://github.com/akbarwjyy)
