@@ -36,12 +36,15 @@
 
 ## 📊 GitHub Stats
 
-![Akbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbarwjyy&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akbarwjyy&theme=tokyonight&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarwjyy&layout=compact&theme=tokyonight)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akbarwjyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akbar's GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akbarwjyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarwjyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 ---
 
 ## 📫 Let's Connect!
