@@ -66,7 +66,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/akbarwjyy/akbarwjyy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/akbarwjyy/akbarwjyy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
@@ -75,8 +75,4 @@
 <div align="center">
   <h3>💫 "Strive for progress, not perfection."</h3>
   <p><em>- Akbar Wijaya</em></p>
-</div>
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
 </div>
