@@ -45,9 +45,20 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Create and switch to output branch
           git checkout --orphan output
+          
+          # Remove all files from working directory
           git rm -rf .
-          mv dist/* .
-          git add *.svg
+          
+          # Copy files from dist directory
+          cp dist/github-contribution-grid-snake.svg .
+          cp dist/github-contribution-grid-snake-dark.svg .
+          
+          # Add and commit files
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
           git commit -m "Update snake animations"
+          
+          # Push to output branch
           git push origin output --force
