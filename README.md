@@ -63,10 +63,6 @@
   </a>
 </div>
 
----
-
-> “Strive for progress, not perfection.”
-
 ## 🐍 Contribution Snake
 
 <div align="center">
