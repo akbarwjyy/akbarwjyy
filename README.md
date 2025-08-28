@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Akbar Wijaya 
+# 👋 Hi there, I'm Akbar Wijaya
 
 ![Profile views](https://komarev.com/ghpvc/?username=akbarwjyy&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/akbarwjyy?label=Follow&style=social)](https://github.com/akbarwjyy)
@@ -7,9 +7,9 @@
 
 ## 💻 About Me
 
-- 🎓 Informatics student at Universitas Teknologi Digital Indonesia  
-- 💡 Interested in Web Development, , especially in Backend Development  
-- 🌱 Currently learning: Express.js, Node.js, MongoDB, MySQL, Tailwind CSS  
+- 🎓 Informatics student at Universitas Teknologi Digital Indonesia
+- 💡 Interested in Web Development, , especially in Backend Development
+- 🌱 Currently learning: Express.js, Node.js, MongoDB, MySQL, Tailwind CSS
 - 🧑‍🏫 Assistant in Advanced Programming Algorithms Lab
 
 ---
@@ -17,6 +17,7 @@
 ## 🚀 Tech Stack
 
 ### 🧱 Web Development
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,7 +26,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 ### 🛠️ Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -63,3 +66,21 @@
 ---
 
 > “Strive for progress, not perfection.”
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/akbarwjyy/akbarwjyy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+<div align="center">
+  <h3>💫 "Strive for progress, not perfection."</h3>
+  <p><em>- Akbar Wijaya</em></p>
+</div>
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+</div>
