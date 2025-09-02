@@ -48,6 +48,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarwjyy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
