@@ -45,9 +45,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=akbarwjyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarwjyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarwjyy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
----
 
 ## 📫 Let's Connect!
 
