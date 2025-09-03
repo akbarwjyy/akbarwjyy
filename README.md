@@ -75,5 +75,4 @@
 </div>
 <div align="center">
   <h3>💫 "Strive for progress, not perfection."</h3>
-  <p><em>- Akbar Wijaya</em></p>
 </div>
