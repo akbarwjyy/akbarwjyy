@@ -8,9 +8,9 @@
 ## 💻 About Me
 
 - 🎓 Informatics student at Universitas Teknologi Digital Indonesia
-- 💡 Interested in Web Development, , especially in Backend Development
-- 🌱 Currently learning: Express.js, Node.js, MongoDB, MySQL, Tailwind CSS
-- 🧑‍🏫 Assistant in Advanced Programming Algorithms Lab
+- 💡 Passionate about backend development and building reliable web applications
+- 🔧 Enjoy working with Express.js, Node.js, Java, Laravel, and databases such as PostgreSQL, MongoDB, and MySQL
+- 🧑‍🏫 Teaching Assistant for Advanced Programming Algorithms, Programming Paradigms, and Distributed & Decentralized Systems Practicums
 
 ---
 
