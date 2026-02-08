@@ -45,10 +45,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akbarwjyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Akbar's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akbarwjyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Akbar's GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats-1-mu.vercel.app?user=akbarwjyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=akbarwjyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akbarwjyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=repo-yang-tidak-ingin-ditampilkan" alt="Top Languages" />
