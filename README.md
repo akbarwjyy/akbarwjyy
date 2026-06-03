@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=akbarwjyy&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/akbarwjyy?label=Follow&style=social)](https://github.com/akbarwjyy)
 
-A web developer focused on backend development and continuously learning technology
+Backend developer and DevOps/Infrastructure enthusiast - focused on CI/CD, containerization, and observability.
 
 ## Connect
 
